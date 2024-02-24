@@ -1,0 +1,4 @@
+﻿  Project [1]  [Ston-Paper-Scissor].cpp
+D:\Fundamentals Of Programming With C++\Corses Leval 5\Project [1]  [Ston-Paper-Scissor]\Project [1]  [Ston-Paper-Scissor]\Project [1]  [Ston-Paper-Scissor].cpp(83): warning C4715: 'PlayerResoult': not all control paths return a value
+D:\Fundamentals Of Programming With C++\Corses Leval 5\Project [1]  [Ston-Paper-Scissor]\Project [1]  [Ston-Paper-Scissor]\Project [1]  [Ston-Paper-Scissor].cpp(70): warning C4715: 'Tabs': not all control paths return a value
+  Project [1]  [Ston-Paper-Scissor].vcxproj -> D:\Fundamentals Of Programming With C++\Corses Leval 5\Project [1]  [Ston-Paper-Scissor]\x64\Debug\Project [1]  [Ston-Paper-Scissor].exe
